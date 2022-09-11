@@ -7,9 +7,9 @@
 
 </div>
 
-# I'm MSc student in Statistics
+### I'm MSc student in Statistics
 
-## I'm interested in 
+### I'm interested in 
   1. Causal Inference ☺️
   1. Natural Language Processing
   2. Recommednaton System
