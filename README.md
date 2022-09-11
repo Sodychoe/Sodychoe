@@ -7,16 +7,20 @@
 
 </div>
 
-### I'm MSc student in Statistics
+# I'm MSc student in Statistics
 
-### I'm interested in 
+### I'm interested in :
   1. Causal Inference ☺️
   1. Natural Language Processing
-  2. Recommednaton System
+  2. Data Science
   3. Deep Learning
   4. Meachine Learning        
 
-
+### Skills :
+ - 
+ -
+ -
+ -
 
 <!--
 **Sodychoe/Sodychoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
