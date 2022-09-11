@@ -7,7 +7,7 @@
 
 </div>
 
-# Hi there 👋
+# I'm MSc student in Statistics
 
 ## I'm interested in 
   1. Causal Inference ☺️
