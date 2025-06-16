@@ -1,3 +1,3 @@
   # 나를 소개합니다
 
-![header](https://capsule-render.vercel.app/api?type=soft)
+![header](https://capsule-render.vercel.app/api?type=transparent)
